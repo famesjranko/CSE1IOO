@@ -17,7 +17,6 @@ public class Racaman {
 		System.out.print(msg);
 
 		Integer output = null;
-
 		while (true) {
 			String input = kb.nextLine();
 			if (input.length() < 1) {
